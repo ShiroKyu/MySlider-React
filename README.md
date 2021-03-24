@@ -1,3 +1,11 @@
+# MySlider-React
+My very first slider made with React. I will improve as I learn react and css
+
+# :city_sunset: Preview
+
+![Github-user-searcher](public/preview.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
